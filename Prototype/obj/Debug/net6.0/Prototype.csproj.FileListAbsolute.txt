@@ -1,0 +1,15 @@
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.exe
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.deps.json
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.dll
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.pdb
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.dll
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\refint\Prototype.dll
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.pdb
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Prototype\obj\Debug\net6.0\ref\Prototype.dll

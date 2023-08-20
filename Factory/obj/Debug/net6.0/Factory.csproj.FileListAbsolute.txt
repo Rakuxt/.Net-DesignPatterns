@@ -1,0 +1,15 @@
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Factory\bin\Debug\net6.0\Factory.exe
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Factory\bin\Debug\net6.0\Factory.deps.json
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Factory\bin\Debug\net6.0\Factory.runtimeconfig.json
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Factory\bin\Debug\net6.0\Factory.dll
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Factory\bin\Debug\net6.0\Factory.pdb
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Factory\obj\Debug\net6.0\Factory.csproj.AssemblyReference.cache
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Factory\obj\Debug\net6.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Factory\obj\Debug\net6.0\Factory.AssemblyInfoInputs.cache
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Factory\obj\Debug\net6.0\Factory.AssemblyInfo.cs
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Factory\obj\Debug\net6.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Factory\obj\Debug\net6.0\Factory.dll
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Factory\obj\Debug\net6.0\refint\Factory.dll
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Factory\obj\Debug\net6.0\Factory.pdb
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Factory\obj\Debug\net6.0\Factory.genruntimeconfig.cache
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Factory\obj\Debug\net6.0\ref\Factory.dll
