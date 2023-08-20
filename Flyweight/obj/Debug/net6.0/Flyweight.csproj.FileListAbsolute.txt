@@ -1,0 +1,15 @@
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Flyweight\bin\Debug\net6.0\Flyweight.exe
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Flyweight\bin\Debug\net6.0\Flyweight.deps.json
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Flyweight\bin\Debug\net6.0\Flyweight.runtimeconfig.json
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Flyweight\bin\Debug\net6.0\Flyweight.dll
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Flyweight\bin\Debug\net6.0\Flyweight.pdb
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Flyweight\obj\Debug\net6.0\Flyweight.csproj.AssemblyReference.cache
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Flyweight\obj\Debug\net6.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Flyweight\obj\Debug\net6.0\Flyweight.AssemblyInfoInputs.cache
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Flyweight\obj\Debug\net6.0\Flyweight.AssemblyInfo.cs
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Flyweight\obj\Debug\net6.0\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Flyweight\obj\Debug\net6.0\Flyweight.dll
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Flyweight\obj\Debug\net6.0\refint\Flyweight.dll
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Flyweight\obj\Debug\net6.0\Flyweight.pdb
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Flyweight\obj\Debug\net6.0\Flyweight.genruntimeconfig.cache
+C:\Users\hector.ramirez\source\repos\DesignPatterns\Flyweight\obj\Debug\net6.0\ref\Flyweight.dll
