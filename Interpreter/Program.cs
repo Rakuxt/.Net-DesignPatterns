@@ -1,6 +1,4 @@
-﻿using System.Linq.Expressions;
-
-namespace Interpreter
+﻿namespace Interpreter
 {
     /*
     The Interpreter pattern is a behavioral design pattern that defines a grammatical representation for a language and provides an interpreter to evaluate 

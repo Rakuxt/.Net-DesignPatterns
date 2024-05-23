@@ -1,6 +1,4 @@
-﻿using System.IO;
-
-namespace ChainResponsability
+﻿namespace ChainResponsability
 {
     /*
     The Chain of Responsibility pattern is a behavioral design pattern that allows multiple objects to handle a request in a chain-like manner. Each object in the
